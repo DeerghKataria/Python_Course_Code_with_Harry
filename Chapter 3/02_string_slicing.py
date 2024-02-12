@@ -7,19 +7,21 @@ print(type(name))
 c = greeting + name
 print(c)
 
-print(name[0])
+print("Print the first character ---> ", name[0])
 # This will give us the index of the array. Because the 
 # string is stored in the form of array.
 
-print(name[0:3])
+print("Print from the ", name[0:3])
 # Now, this will give the indeces 0,1 and 2.
 # This is called as string slicing.
 
 # print(name[:4]) ---> This will give take it as 0:4
 # print(name[1:]) ---> This is equivalent to 1:5
+# To simply print till the last element just leave the second
+# index empty. Like print(name[0:])
 
 # You can also use negative indices
-print(name[-4:-1])
+print("Print from 4th last to the 2nd last index --->",name[-4:-1])
 # This is same as 1:4, we just use negative indeces
 # when we are not aware of the end length of a particular
 # string type.
