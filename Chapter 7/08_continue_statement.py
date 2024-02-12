@@ -1,0 +1,10 @@
+for i in range(10):
+    if i==5:
+        continue
+    print(i)
+else:
+    print("This is inside else of for")
+    
+# 'continue' is opposite of break.
+# When you use 'continue' it will continue the
+# loop and it will not stop.
