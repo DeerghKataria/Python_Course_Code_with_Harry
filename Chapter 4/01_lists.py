@@ -7,10 +7,12 @@ print(a)
 
 # Accessing using index using a[0], a[1], a[2]
 a[0] = 98
-print(a)
+print(a)        # Now, the first element will be changed to '98'
 
 # We can create a list with items of different types
-# Python programming language doesn't really have any restrictions at all.
+# Python programming language doesn't really have any
+# restrictions at all.
+
 c = [45, "Deergh", True, 46]
 print(c)
 

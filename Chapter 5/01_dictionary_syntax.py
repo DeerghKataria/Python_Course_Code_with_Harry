@@ -11,7 +11,9 @@ myDict = {
 
 print(myDict['Fast'])
 print(myDict['Deergh'])
-myDict['Marks'] = [45, 78]      # ---> This will override the pre-existing numbers
+
+# This will override the pre-existing numbers
+myDict['Marks'] = [45, 78]      
 print(myDict['Marks'])
 print(myDict['anotherDict']['Deergh'])
 # Searching a word within a word.
