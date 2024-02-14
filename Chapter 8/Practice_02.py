@@ -7,3 +7,6 @@ c = int(input("Enter Temperature in Celsius: "))
 f = farh(c)
 
 print("The Temperature in Farhenheit: " +str(f))
+
+# Try with -40. Since, it would return -40.0 which is
+# the same value.

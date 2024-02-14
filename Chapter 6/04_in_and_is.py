@@ -9,3 +9,6 @@ else:
 # This is how 'in' is used:
 a = [45, 56, 6]
 print(435 in a)
+
+# This will return "False". Since, the
+# value is not there.

@@ -1,5 +1,5 @@
-# WAP to find out whether a post contains the word "Deergh" or not.
-# And make it in such a way that it isn't case sensitive.
+# WAP to find out whether a post contains the word "Deergh"
+# or not, and make it in such a way that it isn't case sensitive.
 
 post = input("Enter Caption for Post: ")
 name = 'Deergh'

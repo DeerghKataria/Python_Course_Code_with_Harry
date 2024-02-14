@@ -3,4 +3,3 @@ def greet(name = "Stranger"):
     
 greet("Harry")
 # greet()
-

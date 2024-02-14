@@ -3,4 +3,3 @@ for i in range(1, 8, 1):
 
 else:
     print("This is inside else of for")
-

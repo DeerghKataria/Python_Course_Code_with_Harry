@@ -1,4 +1,5 @@
-# This code is used for checking whether the name is more than 10 characters or not.
+# This code is used for checking whether the
+# name is more than 10 characters or not.
 
 name = input("Enter Name: ")
 if(len(name)>10):
