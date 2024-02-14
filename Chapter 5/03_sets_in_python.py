@@ -2,7 +2,8 @@ a = {1, 3, 4, 5, 1}
 print(type(a))
 print(a)
 
-# Here, 1 would not be printed twice. Since, we have a set likewise we have in mathematics
+# Here, 1 would not be printed twice. Since, we have a
+# set likewise we have in mathematics.
 
 # Moreover, an empty set is a dictionary.
 a = {}
