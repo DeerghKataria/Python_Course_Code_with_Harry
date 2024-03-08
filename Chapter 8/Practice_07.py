@@ -2,7 +2,7 @@
 # a given word from a list and
 # strip at the same time.
 
-# strip is used to terminate all the spaces in between.
+# strip is used to terminate all the unnecessary spaces in between.
 # for ex:
 # str = "   Deergh   "
 # print(str)

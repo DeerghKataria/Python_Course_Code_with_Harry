@@ -1,7 +1,6 @@
 # This is for explaining the significance
 # of the word 'self' here.
 
-
 class Employee:
     company = "Google"
     def getSalary(self):

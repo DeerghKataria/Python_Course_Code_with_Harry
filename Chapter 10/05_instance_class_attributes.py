@@ -12,7 +12,7 @@ sam = Employee()
 
 deergh.salary = 45
 
-# This is overwritting the attributes where the value 100
+# This is overwritting the attributes where the value 300
 # will be overwritten by 45.
 
 print(deergh.salary)

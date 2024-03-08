@@ -25,4 +25,4 @@ print(t.count(1))   # ---> Tell us the number of occurences
 print(t.index(5))   # ---> Tell us about the Index where 5 is located.
 
 # To refer more methods tuple. 
-# Check out python.org
+# Check out python.org 

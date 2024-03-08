@@ -10,4 +10,3 @@ for i in range(3):
 # In Python, when you type * (i+1)
 # It will print the following pattern
 # 'i+1' times.
-        

@@ -14,4 +14,5 @@ for i in range(3):
         
 # We use the end statement to make sure that there 
 # are no lines being left out and you can just leave
-# it empty.
+# it empty. Otherwise, the print statement would take
+# it to the next line.
