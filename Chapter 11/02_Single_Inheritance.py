@@ -1,5 +1,4 @@
-# The basic idea of using Inheritance is so that it doesn't violate
-# the DRY principle (Don't Repeat Yourself).
+# This is from the previous example. It is classic example of single inheritance.
 
 class Employee:
     company = "Google"
