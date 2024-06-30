@@ -23,8 +23,11 @@ class Vector:
             sum += self.vec[i] * vec2.vec[i]
 
         return sum
+    
+    def __len__(self):
+        return len(self.vec)
 
-v1 = Vector([1, 4, 6])
-v2 = Vector([1, 6, 9])
-print(v1 + v2)
-print(v1 * v2)
+v1 = Vector([1, 4, 6, 7, 8, 9])
+v2 = Vector([1, 6, 9, 8, 9, 3, 2])
+print(len(v1))
+print(len(v2))
